@@ -1,5 +1,7 @@
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+### ✍️ Quote of the day
+![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![image](https://user-images.githubusercontent.com/97396473/234032275-dd07e026-de21-4617-bf42-2b97fd9074e5.png)](https://instagram.com/giwon_ee) 
