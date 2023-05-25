@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm a Frontend student<br><br> 📚 I'm currently learning JavaScript and React</p>
+<p align="left">I'm a Frontend student<br><br> 📚 I'm currently learning JavaScript, React, and Firebase</p>
 <a href="https://velog.io/@qazx960"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
  <a href="mailto:giwon.yi339@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
