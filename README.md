@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+
+![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Giwon&desc=Aspiring%20Web%20Developer&fontColor=FFFFFF&type=waving&color=749BC2&height=250&fontSize=70&fontAlign=60&fontAlignY=40&descAlign=70&descAlignY=65&animation=fadeIn)
+
 
 ###
 
@@ -21,21 +22,13 @@
 
 ###
 
-<h3 align="left">💻  About Me</h3>
-
-###
-
-<p align="left">Frontend student<br><br> 📚 Always learning <br><br> 
-<!-- <a href="https://velog.io/@qazx960"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> -->
- <a href="mailto:giwon.yi339@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
-
-
-###
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> 
