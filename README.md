@@ -2,6 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Giwon&desc=Aspiring%20Web%20Developer&fontColor=FFFFFF&type=waving&color=749BC2&height=250&fontSize=70&fontAlign=60&fontAlignY=40&descAlign=70&descAlignY=65&animation=fadeIn)
 
+###
+
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+
+<!-- <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div> -->
+
 
 ###
 
@@ -13,16 +22,12 @@
 
 ###
 
-<!-- <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazx960&show_icons=true&locale=en&layout=compact" alt="qazx960" /></p>
+
+
 
 ###
 
-
-###
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
 
@@ -34,10 +39,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> 
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router"/> 
-<!--   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>  -->
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-component"/> 
-<!--   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>  -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> 
+<!--   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>  -->
 
 
 </p>
@@ -46,6 +49,13 @@
  -->
 ###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qazx960&show_icons=true&locale=en&layout=compact" alt="qazx960" /></p>
+<p>
+  Currently Learning
 
+ Loading...
+</p>
+
+
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>  
+ <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="typescript"/>  
 
