@@ -50,10 +50,14 @@
 ###
 
 <p>
-  Currently Learning
-
- Loading...
+ Currently Learning...
 </p>
+
+###
+
+<img src='https://i.pinimg.com/originals/65/ba/48/65ba488626025cff82f091336fbf94bb.gif' alt='loading' width='350px' height='200px' />
+
+###
 
 
  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>  
